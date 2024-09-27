@@ -28,3 +28,7 @@ while choice != 4:
         case 4:
             print("Exiting.")
             break
+
+"""
+good job! dont forget to add error handling when a user inputs the wrong kind of datatypes :D overall still good !
+"""
